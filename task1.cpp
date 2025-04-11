@@ -2,5 +2,5 @@
 
 int main() {
 	std::cout << "Кирилл\n";
-	std::cout << "28" << '\n';
+	std::cout << "21" << '\n';
 }
